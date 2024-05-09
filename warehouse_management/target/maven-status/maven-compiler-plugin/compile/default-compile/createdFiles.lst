@@ -1,0 +1,3 @@
+com\lqyrmk\transportation\entity\User.class
+com\lqyrmk\transportation\controller\UserController.class
+com\lqyrmk\transportation\ShippingTransportationApplication.class
